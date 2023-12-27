@@ -97,7 +97,6 @@ $header->render();
                 }
             }
             ?>
-<!--lal-->
 
         </div>
     </div>
